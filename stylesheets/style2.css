@@ -76,7 +76,7 @@ p {
     border: 1px solid #FFFFFF;
     margin: 5px;
 	text-align:center; 
-	line-height:100px;
+	line-height:60px;
 }
 
 #footerwrap {
@@ -208,7 +208,7 @@ padding:0; }
 .font-style-top {
 	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 	color: #FFFFFF;
-	font-size: 2.5em;
+	font-size: 2.3em;
 	padding: 37;
 	font-weight: bold;
 }
